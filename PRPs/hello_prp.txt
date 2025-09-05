@@ -1,0 +1,5 @@
+# PRP minta
+CÍM: Példa patch
+CÉL: Kipróbálni a betöltést.
+ÉRINTETT FÁJLOK: gui/app.py
+ELFOGADÁSI FELTÉTELEK: „py -3 -m gui.app” indul; Futtatás aktív ha van szöveg

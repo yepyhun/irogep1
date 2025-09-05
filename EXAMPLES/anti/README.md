@@ -1,0 +1,1 @@
+Anti példák – kerülendő minták.

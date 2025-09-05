@@ -1,0 +1,20 @@
+# Kötelező ID-k (ne változtasd a neveket):
+PASTE_INPUT = "#paste-input"
+SANITIZE_BTN = "#sanitize-btn"
+RUN_BTN = "#run-btn"
+STOP_BTN = "#stop-btn"
+SUMMARY_HUMAN = "#summary-human"
+RAW_OUTPUT = "#raw-output"
+MAKE_FIX_PROMPT_BTN = "#make-fix-prompt-btn"
+FIX_PROMPT_OUTPUT = "#fix-prompt-output"
+ZIP_LINK = "#zip-link"
+SHA_LINE = "#sha-line"
+HISTORY_PANEL = "#history-panel"
+COOKBOOK_DRAWER = "#cookbook-drawer"
+HOOD_DRAWER = "#hood-drawer"
+NEXT_HINT = "#next-hint"
+COPY_BTN_CLASS = ".copy-btn"
+
+# Branding
+APP_NAME = "Szuper Írógép"
+APP_VERSION = "1.5"

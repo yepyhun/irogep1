@@ -1,0 +1,1 @@
+Rövid, célzott útmutatók helye.
